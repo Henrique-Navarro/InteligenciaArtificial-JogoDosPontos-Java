@@ -1,0 +1,9 @@
+otimo
+IA
+P1	  II
+EMPATE    I 
+
+heuristica
+IA
+P1
+EMPATE	  IIIII 
